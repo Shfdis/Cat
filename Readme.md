@@ -1,4 +1,4 @@
-***Catbot***
+<h1>Catbot</h1>
 <p> Telegram bot, that allows to host  tests </p> 
 <hr />
 <h1> How to use: </h1>
@@ -24,7 +24,7 @@ then input your bot's token
 <p>qualities and numerical influences(every quality and its influence are in a single line separated bu a space)</p>
 <h2>Results</h2>
 <p>Number of results</p>
-<h2>Result in following format: </p>
+<h2>Result in following format: </h2>
 <p> name</p>
 <p>description</p>
 <p>image</p>
