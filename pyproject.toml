@@ -8,6 +8,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.13"
+pytelegrambotapi = "^4.26.0"
 
 
 [build-system]
