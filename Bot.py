@@ -7,7 +7,7 @@ from questionWithBack import *
 from resultHandler import *
 import restartMarkup
 from input import *
-token = ''
+token = input()
 bot = telebot.TeleBot(token)
 stage = {}
 tests = {}
