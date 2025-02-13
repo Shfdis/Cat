@@ -5,7 +5,7 @@
 <p>
 Run:
 
-``` poetry init & poetry run python Bot.py```
+``` poetry install & poetry run python Bot.py```
 
 then input your bot's token
 </p>
